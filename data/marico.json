@@ -1,0 +1,123 @@
+{
+    "tenant_id": "3a165f3e-5a79-de6f-e11a-885a8451b6b5",
+    "shots_id": 55,
+    "image_id": 61,
+    "image_code": "61",
+    "image_name": "20250311_092530",
+    "tracking_code": "6",
+    "image_date": "2025-02-12T10: 21: 27.3567835+07: 00",
+    "image_url": "https://rtqc.blob.core.windows.net/test/mrc_test/20250311_092530.jpeg",
+    "request_id": "5",
+    "program_code": "CTTB_NDS_2025021201",
+    "plan_code": "CTTB_NDS_2025021201",
+    "level_code": null,
+    "criteria_code": null,
+    "sku_group": null,
+    "outlet_code": "NDSVN_Test_01",
+    "ship_to_code": "NDSVN_Test_01",
+    "route_code": null,
+    "posm_code": null,
+    "posm_type": null,
+    "number_of_floor": 1,
+    "is_combo": 0,
+    "attr_side": null,
+    "error": null,
+    "time_sent": "2025-02-12T10:21:27.6208546+07:00",
+    "traceparent": "00-32cd9fd380e3f0a837301c7e0f6f2d6e-b15a0bb600454b5f-01",
+    "start_process": "2025-03-14 09:55:55.140",
+    "time_download": 0.095265,
+    "image_result": 1,
+    "reasons": [],
+    "count_numeric": {},
+    "detail": {},
+    "detail_result": {
+        "total_numeric": {
+            "Others": {
+                "OTHERS_PRODUCT": 27
+            },
+            "Xmen": {
+                "X-Men For Boss Shower 650g Intense": 2
+            }
+        },
+        "total_brand_product": 2,
+        "total_others_product": 27,
+        "share_of_shelf": 0.07,
+        "pricetags": [
+            {
+                "pricetag_id": "PT_0",
+                "pricetag_type": "discount",
+                "bounding_box": [
+                    1416,
+                    1105,
+                    1795,
+                    1479,
+                    0.902
+                ],
+                "pricetag_link": "https://visdev.blob.core.windows.net/marico/qcenv/2025/3/14/20250311_092530_PT_0_output.jpg",
+                "extracted_text": "DG/ST/Tắm gội\nXmen For Boss 650g\n208,999\nvnd/chai\n500\n134\nvnd/chai\nTừ 27/02 dến 19/03/2025\nKhuyến\nMàig\n",
+                "price": {
+                    "value": 134000,
+                    "raw_text": "134"
+                }
+            },
+            {
+                "pricetag_id": "PT_1",
+                "pricetag_type": "discount",
+                "bounding_box": [
+                    1797,
+                    1319,
+                    2030,
+                    1474,
+                    0.649
+                ],
+                "pricetag_link": "https://visdev.blob.core.windows.net/marico/qcenv/2025/3/14/20250311_092530_PT_1_output.jpg",
+                "extracted_text": "KhUYEN MÃI\nST XMENFOR BOSS MOTION 6506\nGia khuyen ma1 27/02/2025-19/032025\n8\n212-000\n134.500ẵ\nTuong Quong vnd\n20 692 / 1OOGR\n935120\n261527\n1s )\n0u88073o\n",
+                "price": {
+                    "value": 134000,
+                    "raw_text": "134.500ẵ"
+                }
+            },
+            {
+                "pricetag_id": "PT_2",
+                "pricetag_type": "discount",
+                "bounding_box": [
+                    578,
+                    1322,
+                    816,
+                    1483,
+                    0.884
+                ],
+                "pricetag_link": "https://visdev.blob.core.windows.net/marico/qcenv/2025/3/14/20250311_092530_PT_2_output.jpg",
+                "extracted_text": "Luon Loun\nKHUYẾN MÃl\nXMEN FOR BOSS INTENSE 650G\nkhuyen\n27/02/2025-19/03/2025\n1\n112,000\n134.500\nTuong duong vnd\n20 692 / 1COGR\n8*035136\n060346\n0n26zo0o\nmai\n",
+                "price": {
+                    "value": 134000,
+                    "raw_text": "134.500"
+                }
+            },
+            {
+                "pricetag_id": "PT_3",
+                "pricetag_type": "discount",
+                "bounding_box": [
+                    0,
+                    1348,
+                    225,
+                    1504,
+                    0.913
+                ],
+                "pricetag_link": "https://visdev.blob.core.windows.net/marico/qcenv/2025/3/14/20250311_092530_PT_3_output.jpg",
+                "extracted_text": "KHUYENMÃT\nSTYLENFOR BOSS INTENSE 3B0G\n5 ,Fuver Mna 05/027025-19/0372025\n8\n10 890\n113.000\n3\n70r7? €lon? Ynd\nmnor\n036426\nCFav:\n00233254\n7\n22\n",
+                "price": {
+                    "value": 113000,
+                    "raw_text": "113.000"
+                }
+            }
+        ]
+    },
+    "messages": [
+        "ON SHELF AVAILABILITY (OSA):\n(51) X-Men For Boss Shower 650g Intense: 2\n"
+    ],
+    "image_result_url": "https://visdev.blob.core.windows.net/marico/qcenv/2025/3/14/20250311_092530_output.jpg",
+    "image_result_path": "https://visdev.blob.core.windows.net/marico/qcenv/2025/3/14/20250311_092530_output.jpg",
+    "end_process": "2025-03-14 09:56:01.599",
+    "total_time": 6.46
+}
